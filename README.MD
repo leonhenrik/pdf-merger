@@ -1,3 +1,3 @@
 # PDF Merging tool
 
-just a free pdf merger. have fun
+free pdf merger. have fun
